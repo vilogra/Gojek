@@ -87,12 +87,20 @@ body {
     margin-bottom: 5rem;
 }
 
+.margin-bot-6 {
+    margin-bottom: 6rem;
+}
+
 .margin-bot-10 {
     margin-bottom: 10rem;
 }
 
 .margin-right-3 {
     margin-right: 3rem;
+}
+
+.margin-right-5 {
+    margin-right: 5rem;
 }
 
 .fleft {
@@ -265,6 +273,33 @@ body {
 }
 
 /* end services */
+
+/* about-cerdikiawan */
+
+.about-cerdikiawan h3 {
+    font-size: 37px;
+    color: #1c1d1d;
+}
+
+.about-cerdikiawan .text {
+    padding-left: 9.5rem;
+}
+
+.about-cerdikiawan .text h3 {
+    font-size: 32px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    color: #1c1d1d;
+}
+
+.about-cerdikiawan .text p {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    color: #494a4a;
+}
+
+/* end about-cerdikiawan */
 
 /* footer */
 
