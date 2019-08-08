@@ -21,8 +21,16 @@ body {
     width: 8.333333333%;
 }
 
+.col-2 {
+    width: 16.666666667%;
+}
+
 .col-3 {
     width: 25%;
+}
+
+.col-4 {
+    width: 33.333333333%
 }
 
 .col-6 {
@@ -407,6 +415,57 @@ body {
     line-height: 20px;
     margin-bottom: 20px;
     color: #494a4a;
+}
+
+.social-economy .text {
+    padding-right: 9.5rem;
+}
+
+.social-economy .text h3 {
+    font-size: 40px;
+    line-height: 50px;
+    color: #1c1d1d;
+}
+
+.social-economy .text p {
+    font-size: 17px;
+    line-height: 20px;
+    color: #494a4a;
+}
+
+.awards h3 {
+    font-size: 40px;
+    color: #1c1d1d;
+}
+
+.awards img {
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .2);
+}
+
+.channels h3 {
+    font-size: 40px;
+    color: #1c1d1d;
+}
+
+.channels .text h3 {
+    font-size: 24px;
+    color: #1c1d1d;
+    margin-bottom: 1rem;
+}
+
+.channels .text h3 span {
+    font-weight: lighter;
+    display: inline;
+}
+
+.channels .text p {
+    font-size: 18px;
+    color: #494a4a;
+    margin-bottom: 0.7rem;
+}
+
+.channels .text hr {
+    width: 55%;
 }
 
 /* end about us */
