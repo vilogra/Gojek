@@ -17,8 +17,28 @@ body {
 
 /*column*/
 
+.col-1 {
+    width: 8.333333333%;
+}
+
+.col-2 {
+    width: 16.666666667%;
+}
+
+.col-3 {
+    width: 25%;
+}
+
+.col-4 {
+    width: 33.333333333%
+}
+
 .col-6 {
     width: 50%;
+}
+
+.col-8 {
+    width: 66.666666667%;
 }
 
 /*end column*/
@@ -71,6 +91,10 @@ body {
     padding-top: 25px;
 }
 
+.pad-left95 {
+    padding-left: 9.5rem;
+}
+
 .margin-left-2 {
     margin-left: 2rem;
 }
@@ -93,6 +117,10 @@ body {
 
 .margin-bot-10 {
     margin-bottom: 10rem;
+}
+
+.margin-bot-14 {
+    margin-bottom: 14rem;
 }
 
 .margin-right-3 {
@@ -285,6 +313,24 @@ body {
     padding-left: 9.5rem;
 }
 
+.about-cerdikiawan .textr {
+    padding-right: 9.5rem;
+}
+
+.about-cerdikiawan .textr h3 {
+    font-size: 32px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    color: #1c1d1d;
+}
+
+.about-cerdikiawan .textr p {
+    font-size: 16px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    color: #494a4a;
+}
+
 .about-cerdikiawan .text h3 {
     font-size: 32px;
     line-height: 50px;
@@ -300,6 +346,129 @@ body {
 }
 
 /* end about-cerdikiawan */
+
+/* about us */
+
+.welcome {
+    margin-top: 120px;
+}
+
+.welcome h3 {
+    font-size: 40px;
+    color: #1c1d1d;
+}
+
+.welcome p {
+    font-size: 16px;
+    color: #494a4a;
+}
+
+.history h3 {
+    font-size: 36px;
+    color: #1c1d1d;
+}
+
+.history p {
+    font-size: 16px;
+    color: #494a4a;
+}
+
+.pillars h3 {
+    font-size: 37px;
+    color: #1c1d1d;
+}
+
+.item-pillars {
+    text-align: center;
+}
+
+.item-pillars img {
+    margin-bottom: 2rem;
+    height: 96px;
+    width: 96px;
+}
+
+.item-pillars h4 {
+    font-size: 24px;
+    color: #1c1d1d;
+    margin-bottom: 2rem;
+}
+
+.item-pillars p {
+    font-size: 18px;
+    color: #494a4a;
+}
+
+.about-services .text {
+    padding-left: 9.5rem;
+}
+
+.about-services .text h3 {
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 20px;
+    color: #1c1d1d;
+}
+
+.about-services .text p {
+    font-size: 17px;
+    line-height: 20px;
+    margin-bottom: 20px;
+    color: #494a4a;
+}
+
+.social-economy .text {
+    padding-right: 9.5rem;
+}
+
+.social-economy .text h3 {
+    font-size: 40px;
+    line-height: 50px;
+    color: #1c1d1d;
+}
+
+.social-economy .text p {
+    font-size: 17px;
+    line-height: 20px;
+    color: #494a4a;
+}
+
+.awards h3 {
+    font-size: 40px;
+    color: #1c1d1d;
+}
+
+.awards img {
+    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, .2);
+}
+
+.channels h3 {
+    font-size: 40px;
+    color: #1c1d1d;
+}
+
+.channels .text h3 {
+    font-size: 24px;
+    color: #1c1d1d;
+    margin-bottom: 1rem;
+}
+
+.channels .text h3 span {
+    font-weight: lighter;
+    display: inline;
+}
+
+.channels .text p {
+    font-size: 18px;
+    color: #494a4a;
+    margin-bottom: 0.7rem;
+}
+
+.channels .text hr {
+    width: 55%;
+}
+
+/* end about us */
 
 /* footer */
 
